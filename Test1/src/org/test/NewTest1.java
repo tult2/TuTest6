@@ -18,6 +18,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
 
 //Master branch 
+//New Branch2
 public class NewTest1 {
 	public WebDriver wd;
 	  @BeforeClass
